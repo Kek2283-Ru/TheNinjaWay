@@ -1,0 +1,30 @@
+The Ninja Way - a large-scale Naruto mod for Terraria
+
+Features:
+- Chakra system (regeneration 2/sec)
+- 6 clans with unique bonuses (Uchiha, Hyuga, Uzumaki, Senju, Naka, Lee)
+- 5 elements with passive effects and techniques
+- Sharingan, Byakugan, Mangekyo, Rinnegan
+- Techniques: Earth, Fire, Wind, Water, Lightning
+- Level system (+10 max chakra per level)
+- Lee's Gates (8 levels of power)
+- Kage title at level 30
+
+Controls:
+Z - Earth Wall
+X - Fireball
+V - Wind Bullet
+C - Water Bullets (3 shots)
+F - Lightning (chain)
+K - Sharingan
+J - Byakugan
+L - Clan Ability / Lee's Gates
+M - Mangekyo
+N - Susanoo
+B - Kamui
+Y/U/I - Rinnegan (with Mangekyo)
+T/G - Kage abilities (after level 30)
+H - Show chakra
+
+Author: Your name
+Version: 0.1

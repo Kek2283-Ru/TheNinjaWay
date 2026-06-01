@@ -1,0 +1,8 @@
+displayName = The Ninja Way
+author = Naruto_Udxumaki
+version = 0.1
+homepage = 
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.bat, *.txt~

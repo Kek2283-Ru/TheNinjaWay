@@ -1,0 +1,82 @@
+Buffs: {
+	Genjutsu: {
+		Description: Mods.TheNinjaWay.Buffs.Genjutsu.Description
+		DisplayName: Genjutsu
+	}
+
+	FireChargeBuff: {
+		DisplayName: Fire Charge Buff
+		Description: Mods.TheNinjaWay.Buffs.FireChargeBuff.Description
+	}
+
+	WaterChargeBuff: {
+		DisplayName: Water Charge Buff
+		Description: Mods.TheNinjaWay.Buffs.WaterChargeBuff.Description
+	}
+
+	WaterChargeBuff2: {
+		DisplayName: Water Charge Buff2
+		Description: Mods.TheNinjaWay.Buffs.WaterChargeBuff2.Description
+	}
+
+	WaterChargeBuff3: {
+		DisplayName: Water Charge Buff3
+		Description: Mods.TheNinjaWay.Buffs.WaterChargeBuff3.Description
+	}
+}
+
+Keybinds: {
+	Шаринган.DisplayName: Шаринган
+	"Способность клана.DisplayName": Способность клана
+	Бьёкуган.DisplayName: Бьёкуган
+	"Мангекё Шаринган.DisplayName": Мангекё Шаринган
+	Сусаноо.DisplayName: Сусаноо
+	Камуи.DisplayName: Камуи
+	"Техника Земли.DisplayName": Техника Земли
+	"Показать чакру.DisplayName": Показать чакру
+	"Техника Огня.DisplayName": Техника Огня
+	"Техника Ветра.DisplayName": Техника Ветра
+	"Техника Воды.DisplayName": Техника Воды
+	"Техника Молнии.DisplayName": Техника Молнии
+	"Шинра Тенсей.DisplayName": Шинра Тенсей
+	"Баншо Теннин.DisplayName": Баншо Теннин
+	"Чибаку Тенсей.DisplayName": Чибаку Тенсей
+	"Призыв игроков.DisplayName": Призыв игроков
+	"Телепортация Каге.DisplayName": Телепортация Каге
+}
+
+Items: {
+	EarthElementScroll: {
+		DisplayName: Earth Element Scroll
+		Tooltip: ""
+	}
+
+	FireElementScroll: {
+		DisplayName: Fire Element Scroll
+		Tooltip: ""
+	}
+
+	LightningElementScroll: {
+		DisplayName: Lightning Element Scroll
+		Tooltip: ""
+	}
+
+	WaterElementScroll: {
+		DisplayName: Water Element Scroll
+		Tooltip: ""
+	}
+
+	WindElementScroll: {
+		DisplayName: Wind Element Scroll
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	EarthWallProjectile.DisplayName: Earth Wall Projectile
+	FireBallProjectile.DisplayName: Fire Ball Projectile
+	FireCircleProjectile.DisplayName: Fire Circle Projectile
+	WindProjectile.DisplayName: Wind Projectile
+	WaterProjectile.DisplayName: Water Projectile
+	LightningProjectile.DisplayName: Lightning Projectile
+}
